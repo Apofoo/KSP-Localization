@@ -2,15 +2,15 @@
 Languages for Kerbal Space Program (Useful with Epic Games Store version)
 
 ## Language available ##
-Chinese (zh-cn)
-Deutsch (de-de)
-English (en-us)
-French (fr-fr)
-Italian (it-it)
-Japanese (ja)
-Portuguese (pt-br)
-Russian (ru)
-Spanish (es-es)
+- Chinese (zh-cn)
+- Deutsch (de-de)
+- English (en-us)
+- French (fr-fr)
+- Italian (it-it)
+- Japanese (ja)
+- Portuguese (pt-br)
+- Russian (ru)
+- Spanish (es-es)
 
 ## Where to find Localization file (Epic Games) ##
 C:\Program Files\Epic Games\KerbalSpaceProgram\English\GameData\Squad\Localization\dictionary.cfg
