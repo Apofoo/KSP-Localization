@@ -11,6 +11,7 @@ Languages for Kerbal Space Program (Useful with Epic Games Store version)
 - Portuguese (pt-br)
 - Russian (ru)
 - Spanish (es-es)
+- Ukrainian (ua) (Community Translation)
 
 ## Where to find Localization file (Epic Games) ##
 C:\Program Files\Epic Games\KerbalSpaceProgram\English\GameData\Squad\Localization\dictionary.cfg
