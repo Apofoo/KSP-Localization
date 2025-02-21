@@ -14,7 +14,8 @@ Languages for Kerbal Space Program (Useful with Epic Games Store version)
 - Ukrainian (ua) (Community Translation)
 
 ## Where to find Localization file (Epic Games) ##
-C:\Program Files\Epic Games\KerbalSpaceProgram\English\GameData\Squad\Localization\dictionary.cfg
+Base Game + Making History DLC = C:\Program Files\Epic Games\KerbalSpaceProgram\English\GameData\Squad\Localization\dictionary.cfg
+Ground Expansion DLC = C:\Program Files\Epic Games\KerbalSpaceProgram\English\GameData\SquadExpansion\Serenity\Localization\dictionary.cfg
 
 ## How to change the language ##
 - Backup your old dictionary.cfg by renaming it (Ex: _dictionary.cfg)
